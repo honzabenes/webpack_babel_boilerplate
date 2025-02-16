@@ -1,5 +1,5 @@
+
 const path = require('path');
-const { RuntimeGlobals } = require('webpack');
 
 module.exports = {
     entry: './src/index.js',
